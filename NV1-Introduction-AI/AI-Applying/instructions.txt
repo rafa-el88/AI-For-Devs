@@ -1,0 +1,10 @@
+**Seguir a documentação para gerar a key e implementação da conexão junto a api do OpenAI.**
+
+-> rodar o seguinte comando para instalar a dependencia do openai no projeto:
+  - pip install openai
+
+
+-> chave de exemplo gerada: sk-proj-.....................
+
+-> rodar o comando no terminal python: 
+   - setx OPENAI_API_KEY "your_api_key_here"
